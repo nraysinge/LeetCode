@@ -1,10 +1,10 @@
 package mk.strings;
 
-public class StrringRev_Mar15 {
+public class D05StrringRev_Mar15 {
 
 	public static void main(String[] args) {
 
-		StrringRev_Mar15 m = new StrringRev_Mar15();
+		D05StrringRev_Mar15 m = new D05StrringRev_Mar15();
 		String s = m.reverseStr("Hello World");
 		System.out.print(s);
 		

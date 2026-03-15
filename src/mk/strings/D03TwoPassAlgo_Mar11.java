@@ -3,10 +3,10 @@ package mk.strings;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TwoPassAlgo_Mar11 {
+public class D03TwoPassAlgo_Mar11 {
 	
 	public static void main(String[] args) {
-		TwoPassAlgo_Mar11 obj = new TwoPassAlgo_Mar11();
+		D03TwoPassAlgo_Mar11 obj = new D03TwoPassAlgo_Mar11();
 		
 		int[] candies = {2,3,6,5,2,2};
 		int extraCandies = 3 ;

@@ -1,9 +1,9 @@
 package mk.strings;
 
-public class GreedyAlgo2_Mar12 {
+public class D04GreedyAlgo2_Mar12 {
 
 	public static void main(String[] args) {
-		GreedyAlgo2_Mar12 str = new GreedyAlgo2_Mar12();
+		D04GreedyAlgo2_Mar12 str = new D04GreedyAlgo2_Mar12();
 		
 		int flowerbed []= {1,0,0,0,1};
 		int n = 5;

@@ -1,9 +1,9 @@
 package mk.strings;
 
-public class GreedyAlgo_Mar10 {
+public class D02GreedyAlgo_Mar10 {
 	public static void main(String[] args) {
 		
-		GreedyAlgo_Mar10 str = new GreedyAlgo_Mar10();		
+		D02GreedyAlgo_Mar10 str = new D02GreedyAlgo_Mar10();		
 		System.out.println(str.gcdOfStrings("ABCABC", "ABC")); // ABC
         System.out.println(str.gcdOfStrings("ABABAB", "ABAB")); // AB
         System.out.println(str.gcdOfStrings("LEET", "CODE"));   // ""

@@ -1,9 +1,9 @@
 package mk.strings;
 
-public class TwoPointerAppro_Mar9 {
+public class D01TwoPointerAppro_Mar9 {
 
 	public static void main(String[] args) {
-		TwoPointerAppro_Mar9 str = new TwoPointerAppro_Mar9();
+		D01TwoPointerAppro_Mar9 str = new D01TwoPointerAppro_Mar9();
 		
 		String res = str.mergeAlternately("Mayur", "Koli");
 		System.out.println(res);
