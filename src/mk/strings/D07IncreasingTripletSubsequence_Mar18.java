@@ -1,10 +1,10 @@
 package mk.strings;
 
-public class D07IncreasingTripletSubsequence {
+public class D07IncreasingTripletSubsequence_Mar18 {
 
 	public static void main(String[] args) {
 		
-		D07IncreasingTripletSubsequence in = new D07IncreasingTripletSubsequence();
+		D07IncreasingTripletSubsequence_Mar18 in = new D07IncreasingTripletSubsequence_Mar18();
 		int[] arr= {2,1,0,4,2};
 		boolean jj=in.increasingTriplet(arr);
 		

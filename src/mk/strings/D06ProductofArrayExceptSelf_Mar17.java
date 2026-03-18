@@ -1,9 +1,9 @@
 package mk.strings;
 
-public class D06ProductofArrayExceptSelf {
+public class D06ProductofArrayExceptSelf_Mar17 {
 
 	public static void main(String[] args) {
-		D06ProductofArrayExceptSelf ae = new D06ProductofArrayExceptSelf();
+		D06ProductofArrayExceptSelf_Mar17 ae = new D06ProductofArrayExceptSelf_Mar17();
 		int[] arr = {2,3,4,1,1};
 		
 		int[] result = ae.productExceptSelf(arr);
